@@ -71,3 +71,6 @@ if (!this.server) {
 // 需要在项目根目录的public/index.html添加注释
 <div id="app"><!-- shell --></div>
 ```
+
+## 参考
+* 1、参考一 [https://segmentfault.com/a/1190000020416483?utm_source=tag-newest](https://segmentfault.com/a/1190000020416483?utm_source=tag-newest)
